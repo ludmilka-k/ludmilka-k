@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I'm Ludmila 👋
 
-<!--
-**ludmilka-k/ludmilka-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I am Junior FullStack Developer. Experienced both in Front-end and Back-end technologies.
+I have several completed team pet-projects  and individual ones.
+Achievements: Was Team Lead( 9 people, 1 week) and Scrum Master( 14 people, 2 weeks) in education projects.
 
-Here are some ideas to get you started:
+#### Contacts
+- 📫 Reach me out [LinkedIn](https://www.linkedin.com/in/ludmila-kurochkina)
+- ✉️ Contact me [ludmilka.kurochkina@gmail.com](mailto:ludmilka.kurochkina@gmail.com)
+- 🌍 My resume/CV
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Top Technologies
+- 🌱 I’m currently learning TypeScript
